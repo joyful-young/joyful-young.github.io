@@ -3,8 +3,9 @@ title: "[Python] 파이썬 자료형"
 categories:
     - Python
 tags:
-    - course
     - python
+    - note
+    - course
     - zerobase
 ---
 
