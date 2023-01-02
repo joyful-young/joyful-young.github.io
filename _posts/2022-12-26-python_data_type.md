@@ -5,6 +5,7 @@ categories:
 tags:
     - course
     - python
+    - zerobase
 ---
 
 최초작성일: 2022. 12. 26
