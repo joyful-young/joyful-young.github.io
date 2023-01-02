@@ -4,7 +4,11 @@ title: "[Practice] 2023 버킷리스트"
 categories:
     - Practice
 tags:
-    - free course
+    - practice
+    - html
+    - css
+    - course
+    - sparta
 ---
 
 # 스파르타코딩클럽 강의 수강
