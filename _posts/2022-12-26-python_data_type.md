@@ -7,6 +7,10 @@ tags:
     - note
     - course
     - zerobase
+toc: true
+toc_label: "Python Datatype"
+toc_icon: "sticky-note"
+toc_sticky: true
 ---
 
 최초작성일: 2022. 12. 26

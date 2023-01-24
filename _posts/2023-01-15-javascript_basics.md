@@ -7,8 +7,9 @@ tags:
     - note
     - mimo_app
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: "JavaScript Basics"
+toc_icon: "sticky-note"
+toc_sticky: true
 ---
 
 최초작성일: 2023-01-15
